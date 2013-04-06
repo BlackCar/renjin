@@ -44,6 +44,7 @@
     <module>samples/appengine-repl</module>
     <module>dist/generic</module>
     <module>appl</module>
+    <module>hadoop</module>
   </modules>
 
   <properties>
